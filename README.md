@@ -1,2 +1,3 @@
-# webstudio-kutuzoff-d642d038
-Web Studio landing for Кутузофф
+# Welcome to your Lovable project
+
+TODO: Document your project here
